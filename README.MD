@@ -1,4 +1,3 @@
-## Hallo Welcome To My Profile 👋
 
 ![yandboy](img/github-header-banner.png)
 
