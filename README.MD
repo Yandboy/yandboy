@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning [**Laravel**](laravel.com) Framework
 <!-- ![slow](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJ2OTR3aTVxeXI1cjU0dzluZWQxc3VpOWhvdDBmOWtkbWZ4b213aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u1jUOduzdPn5KBvs4v/giphy.gif) -->
-- #### Skills
+- ##### Skills
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
